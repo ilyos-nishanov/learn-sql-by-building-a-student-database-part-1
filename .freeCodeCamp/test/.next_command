@@ -126,3 +126,4 @@ cp courses.csv courses_test.csv
 nano courses_test.csv
 cat courses_test.csv
 nano courses_test.csv
+./insert_data.sh
