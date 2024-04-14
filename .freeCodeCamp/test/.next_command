@@ -88,3 +88,4 @@ touch insert_data_sh
 rm insert_data_sh
 touch insert_data.sh
 chmod +x insert_data.sh
+nano insert_data.sh
