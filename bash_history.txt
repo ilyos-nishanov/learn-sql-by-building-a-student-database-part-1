@@ -1,0 +1,44 @@
+    1  echo hello SQL
+    2  psql --username=freecodecamp --dbname=postgres
+    3  create table students
+    4  psql --username=freecodecamp --dbname=postgres
+    5  psql --username=freecodecamp --dbname=postgres
+    6  psql --username=freecodecamp --dbname=postgres
+    7  ls -la
+    8  touch insert_data_sh
+    9  rm insert_data_sh
+   10  touch insert_data.sh
+   11  chmod +x insert_data.sh 
+   12  .insert_data.sh
+   13  ./insert_data.sh 
+   14  ./insert_data.sh 
+   15  declare -p IFS
+   16  ./insert_data.sh 
+   17  ./insert_data.sh 
+   18  ./insert_data.sh 
+   19  cp courses.csv courses_test.csv
+   20  nano courses_test.csv 
+   21  cat courses_test.csv 
+   22  nano courses_test.csv 
+   23  ./insert_data.sh 
+   24  ./insert_data.sh 
+   25  ./insert_data.sh 
+   26  ./insert_data.sh 
+   27  ./insert_data.sh 
+   28  ./insert_data.sh 
+   29  ./insert_data.sh 
+   30  cp students.csv students_test.csv
+   31  nano students_test.csv 
+   32  ./insert_data.sh 
+   33  ./insert_data.sh 
+   34  ./insert_data.sh 
+   35  ./insert_data.sh 
+   36  ./insert_data.sh 
+   37  ls
+   38  rm students_test.csv 
+   39  rm courses_test.csv 
+   40  ls
+   41  pg_dump --help
+   42  pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
+   43  ls -la
+   44  history > history.txt
